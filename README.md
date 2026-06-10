@@ -16,19 +16,23 @@ I am building a project portfolio to explore how data can support decision-makin
 
 I am currently working on applied data science projects that connect data analysis with real-world industry problems.
 
-My first project focuses on **housing affordability** and rental market pressure across U.S. Metro Areas using U.S. Census ACS data.
+My recent projects focus on:
+
+- Housing affordability and rental market pressure across U.S. Metro Areas
+- ICU patient risk modeling using clinical demo data
+- Interpretable analysis and visualization for real-world decision-making
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Housing Affordability Analysis Across U.S. Metro Areas
 
 This project analyzes rental housing affordability across selected major U.S. Metro Areas using U.S. Census ACS data.
 
-Instead of looking only at rent prices, the project uses the `Rent-to-Income Ratio` to compare rent burden relative to local household income.
+Instead of looking only at rent prices, the project uses the Rent-to-Income Ratio to compare rent burden relative to local household income.
 
-**Key skills used:**
+Key skills used:
 
 - Python
 - Pandas
@@ -38,34 +42,61 @@ Instead of looking only at rent prices, the project uses the `Rent-to-Income Rat
 - Exploratory data analysis
 - Data visualization
 
-**Project link:** [Housing Affordability Analysis](https://github.com/Dongwoon1d/housing-affordability-analysis)
+Project link: Housing Affordability Analysis
+
+---
+
+### ICU Mortality Risk Modeling Using MIMIC-IV Demo
+
+This project builds a prototype ICU mortality risk modeling pipeline using the MIMIC-IV Clinical Database Demo.
+
+The project creates an ICU stay-level dataset by merging patient, hospital admission, and ICU stay records. It then explores mortality patterns and builds a baseline Logistic Regression model to predict in-hospital mortality risk.
+
+Key skills used:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Data cleaning
+- Exploratory data analysis
+- Classification modeling
+- Model evaluation
+- Healthcare data interpretation
+
+Project link: ICU Mortality Risk Modeling
 
 ---
 
 ## Skills
 
-**Programming & Analysis**
+Programming & Analysis
 
 - Python
 - R
 - Excel
 - JavaScript
 
-**Python Libraries**
+Python Libraries
 
 - Pandas
+- NumPy
 - Matplotlib
 - Requests
+- Scikit-learn
 
-**Data Skills**
+Data Skills
 
 - Data cleaning
 - Exploratory data analysis
 - Data visualization
 - Basic statistical analysis
+- Classification modeling
+- Model evaluation
 - Real-world data interpretation
 
-**Tools**
+Tools
 
 - JupyterLab
 - Git
@@ -83,7 +114,7 @@ Analyzing housing affordability, rental market pressure, and regional housing pa
 
 ### Healthcare
 
-Exploring how data can support patient care, risk analysis, and healthcare decision-making.
+Exploring how data can support patient risk analysis, healthcare decision-making, and clinical data interpretation.
 
 ### Manufacturing
 
@@ -101,6 +132,6 @@ Rather than focusing only on abstract numbers, I want to understand how data can
 
 ## Contact
 
-- GitHub: [github.com/Dongwoon1d](https://github.com/Dongwoon1d)
-- LinkedIn: [linkedin.com/dongwoon-han](https://linkedin.com/dongwoon-han)
+- GitHub: github.com/Dongwoon1d
+- LinkedIn: linkedin.com/dongwoon-han
 - Email: dhan82@wisc.edu
