@@ -53,13 +53,13 @@ This project creates an ICU stay-level dataset by merging patient, admission, an
 
 ### Manufacturing Equipment Failure Risk Analysis
 
-Currently building a predictive maintenance project that analyzes machine operating conditions and equipment failure risk.
+Analyzed manufacturing equipment failure risk using machine operating condition data.
 
-This project explores how variables such as `Torque`, `Rotational speed`, `Tool wear`, and temperature relate to machine failure. It compares baseline and tree-based models to understand failure prediction and feature importance.
+This project explores how variables such as `Torque [Nm]`, `Rotational speed [rpm]`, `Tool wear [min]`, and temperature relate to machine failure. It compares Logistic Regression and Random Forest models to understand failure prediction, false alarm trade-offs, and feature importance.
 
-**Key skills:** Python, Pandas, Matplotlib, Scikit-learn, classification modeling, feature importance, manufacturing analytics
+**Key skills:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, classification modeling, model comparison, feature importance, manufacturing analytics
 
-**Project link:** Coming soon
+**Project link:** [Manufacturing Equipment Failure Risk Analysis](https://github.com/Dongwoon1d/manufacturing-equipment-failure-risk-analysis)
 
 ---
 
@@ -88,6 +88,7 @@ This project explores how variables such as `Torque`, `Rotational speed`, `Tool 
 - Basic statistical analysis
 - Classification modeling
 - Model evaluation
+- Feature importance analysis
 - Real-world data interpretation
 
 **Tools**
