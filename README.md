@@ -2,25 +2,26 @@
 
 I'm a Data Science student at the University of Wisconsin–Madison interested in using data to understand practical, real-world problems.
 
-My current focus is applying data analysis to industries that are closely connected to everyday life, especially:
+My portfolio focuses on applying data analysis to industries closely connected to everyday life:
 
 - Housing & Real Estate
 - Healthcare
 - Manufacturing
 
-I am building a project portfolio to explore how data can support decision-making across these fields.
+I am especially interested in projects that combine **data cleaning**, **exploratory analysis**, **visualization**, and **interpretable modeling** to support better decision-making.
 
 ---
 
 ## Current Focus
 
-I am currently working on applied data science projects that connect data analysis with real-world industry problems.
+I am building applied data science projects across different real-world domains.
 
-My recent projects focus on:
+Recent project areas include:
 
-- Housing affordability and rental market pressure across U.S. Metro Areas
-- ICU patient risk modeling using clinical demo data
-- Interpretable analysis and visualization for real-world decision-making
+- Housing affordability and rental market pressure across U.S. metro areas
+- ICU mortality risk modeling using clinical demo data
+- Manufacturing equipment failure risk and predictive maintenance
+- Interpretable analysis that connects data results back to real-world decisions
 
 ---
 
@@ -28,57 +29,50 @@ My recent projects focus on:
 
 ### Housing Affordability Analysis Across U.S. Metro Areas
 
-This project analyzes rental housing affordability across selected major U.S. Metro Areas using U.S. Census ACS data.
+Analyzed rental housing affordability across selected major U.S. metro areas using U.S. Census ACS data.
 
-Instead of looking only at rent prices, the project uses the Rent-to-Income Ratio to compare rent burden relative to local household income.
+Instead of looking only at rent prices, this project uses the `Rent-to-Income Ratio` to compare rent burden relative to local household income.
 
-Key skills used:
+**Key skills:** Python, Pandas, Matplotlib, Requests, data cleaning, exploratory data analysis, data visualization
 
-- Python
-- Pandas
-- Matplotlib
-- Requests
-- Data cleaning
-- Exploratory data analysis
-- Data visualization
-
-Project link: Housing Affordability Analysis
+**Project link:** [Housing Affordability Analysis](https://github.com/Dongwoon1d/housing-affordability-analysis)
 
 ---
 
 ### ICU Mortality Risk Modeling Using MIMIC-IV Demo
 
-This project builds a prototype ICU mortality risk modeling pipeline using the MIMIC-IV Clinical Database Demo.
+Built a prototype ICU mortality risk modeling pipeline using the MIMIC-IV Clinical Database Demo.
 
-The project creates an ICU stay-level dataset by merging patient, hospital admission, and ICU stay records. It then explores mortality patterns and builds a baseline Logistic Regression model to predict in-hospital mortality risk.
+This project creates an ICU stay-level dataset by merging patient, admission, and ICU stay records. It then explores mortality patterns and builds a baseline Logistic Regression model to predict in-hospital mortality risk.
 
-Key skills used:
+**Key skills:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, classification modeling, model evaluation, healthcare data interpretation
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Data cleaning
-- Exploratory data analysis
-- Classification modeling
-- Model evaluation
-- Healthcare data interpretation
+**Project link:** [ICU Mortality Risk Modeling](https://github.com/Dongwoon1d/icu-patient-risk-modeling)
 
-Project link: ICU Mortality Risk Modeling
+---
+
+### Manufacturing Equipment Failure Risk Analysis
+
+Currently building a predictive maintenance project that analyzes machine operating conditions and equipment failure risk.
+
+This project explores how variables such as `Torque`, `Rotational speed`, `Tool wear`, and temperature relate to machine failure. It compares baseline and tree-based models to understand failure prediction and feature importance.
+
+**Key skills:** Python, Pandas, Matplotlib, Scikit-learn, classification modeling, feature importance, manufacturing analytics
+
+**Project link:** Coming soon
 
 ---
 
 ## Skills
 
-Programming & Analysis
+**Programming & Analysis**
 
 - Python
 - R
 - Excel
 - JavaScript
 
-Python Libraries
+**Python Libraries**
 
 - Pandas
 - NumPy
@@ -86,7 +80,7 @@ Python Libraries
 - Requests
 - Scikit-learn
 
-Data Skills
+**Data Skills**
 
 - Data cleaning
 - Exploratory data analysis
@@ -96,7 +90,7 @@ Data Skills
 - Model evaluation
 - Real-world data interpretation
 
-Tools
+**Tools**
 
 - JupyterLab
 - Git
@@ -118,7 +112,7 @@ Exploring how data can support patient risk analysis, healthcare decision-making
 
 ### Manufacturing
 
-Studying how data can improve quality control, production efficiency, and operational decision-making.
+Studying how data can improve quality control, production efficiency, predictive maintenance, and operational decision-making.
 
 ---
 
@@ -132,6 +126,6 @@ Rather than focusing only on abstract numbers, I want to understand how data can
 
 ## Contact
 
-- GitHub: github.com/Dongwoon1d
-- LinkedIn: linkedin.com/dongwoon-han
+- GitHub: [github.com/Dongwoon1d](https://github.com/Dongwoon1d)
+- LinkedIn: [linkedin.com/dongwoon-han](https://linkedin.com/dongwoon-han)
 - Email: dhan82@wisc.edu
